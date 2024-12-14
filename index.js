@@ -43,4 +43,4 @@ const makeCommits = async (n) => {
     
 }
 
-await makeCommits(5000);
+await makeCommits(500);
